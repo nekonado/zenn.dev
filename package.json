@@ -1,0 +1,23 @@
+{
+  "name": "zenn.dev",
+  "version": "1.0.0",
+  "description": "## How to use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/queuek/zenn.dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/queuek/zenn.dev/issues"
+  },
+  "homepage": "https://github.com/queuek/zenn.dev#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.143"
+  }
+}
