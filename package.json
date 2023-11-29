@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/queuek/zenn.dev.git"
+    "url": "git+https://github.com/nekonado/zenn.dev.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/queuek/zenn.dev/issues"
+    "url": "https://github.com/nekonado/zenn.dev/issues"
   },
-  "homepage": "https://github.com/queuek/zenn.dev#readme",
+  "homepage": "https://github.com/nekonado/zenn.dev#readme",
   "dependencies": {
     "zenn-cli": "^0.1.143"
   }
